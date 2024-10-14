@@ -30,3 +30,6 @@ Ensure you have Python installed on your machine. You can download it from [pyth
    ```bash
    git clone <repository-url>
    cd password-generator
+
+## Screenshot
+![Password Generator Screenshot](images/screenshot.png)
