@@ -32,4 +32,4 @@ Ensure you have Python installed on your machine. You can download it from [pyth
    cd password-generator
 
 ## Screenshot
-![Password Generator Screenshot]([images/screenshot.png](https://img.notionusercontent.com/s3/prod-files-secure%2F680b95d2-eb0b-4d66-9260-69e12a16147f%2Fb692b75e-a8d5-4045-ac1a-920827c969e7%2FScreenshot_2024-10-13_215841.png/size/w=2000?exp=1728876099&sig=RO3orsBjsdMaidsTtkSAexguUMWvP8zqvqV751Co6P0))
+![Password Generator Screenshot](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F680b95d2-eb0b-4d66-9260-69e12a16147f%2Fb692b75e-a8d5-4045-ac1a-920827c969e7%2FScreenshot_2024-10-13_215841.png?table=block&id=11feb29f-aadc-80cc-ab20-ec12701d6555&spaceId=680b95d2-eb0b-4d66-9260-69e12a16147f&width=2000&userId=6ef30fa0-1a34-494e-80ba-b7157c963f85&cache=v2)
