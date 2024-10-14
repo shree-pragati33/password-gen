@@ -32,4 +32,4 @@ Ensure you have Python installed on your machine. You can download it from [pyth
    cd password-generator
 
 ## Screenshot
-![Password Generator Screenshot](![image](https://github.com/user-attachments/assets/23c742a3-ab7d-4dd7-aba6-3c3f239615b8))
+![Password Generator Screenshot](![PE](https://github.com/user-attachments/assets/94930fb9-37c8-410b-8a01-05d3d8e186c5)
